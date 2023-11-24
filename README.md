@@ -1,2 +1,2 @@
 
-This readme contains 'Skyline ICT Students in Cohort - 15' 
+This is student personal course outline
