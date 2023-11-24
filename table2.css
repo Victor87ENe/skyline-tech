@@ -12,14 +12,10 @@ table{
     text-align: center;
   
 }
-.chek,.goo{
-    background-color: green;
-    color: white;
-    border-radius: 2px;
-    padding: 1px;
-}
+
+
 caption,.cap{
-    /* background-color: red; */
+    color: red;
     /* border: 1px solid; */
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
@@ -32,7 +28,7 @@ table,tr,th,td{
     
 }
 .thc,th{
-    background-color: #0b0becad;
+    background-color: #0f0f6dad;
     color: white;
     padding: 10px;
 }
@@ -40,8 +36,9 @@ td{
     padding: 15px;
 }
 
-.red,.bad{
-    color: red;
-    border: 1px solid;
-    
+ tr:nth-child(odd){
+    background-color: lightblue;
+ }
+tr:hover{
+    background-color: lightgray;
 }
